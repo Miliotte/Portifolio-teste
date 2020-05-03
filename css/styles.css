@@ -1,0 +1,280 @@
+/*Container*/
+#container{
+    background: #343a40;  
+    height: 250%;
+}
+
+#container .name h1{
+    font-weight: 700;
+    font-size: 35px;
+    line-height:100%;
+    text-align:center;
+    color: #ffffff;
+    margin-left: 25%;
+    margin-top: -9%;
+    margin-bottom: 1%;
+}
+
+#container .profisson p{
+    font-weight: 700;
+    font-size: 22px;
+    color: #6c7569;
+    margin-left: 56%;   
+    margin-top:-1%;
+    margin-bottom: -1%;
+}
+
+#container .hr_vagas p{
+    font-weight: 300;
+    color: #e9e9e9;
+    margin-left: 67%; 
+    margin-top: -1%;
+    margin-bottom: 1%;
+}
+
+#container .icon{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 1%; 
+    margin-left: 19.5%;
+    display:flex; 
+    align-items: center;
+    justify-content: center;
+}
+
+#container .perfil img{ 
+    width: 150px;
+    height: 150px;
+    margin-left: 46%;
+    margin-top: 2%;
+    margin-bottom: 1%;
+    border-radius: 200%;
+    
+    border: 7px solid #33363d;
+}
+
+/*--HomePage--*/
+
+#home_page{
+    background: #343a40;
+    height: 5px;
+    width: 160px;
+    margin-left: 40%;   
+}
+
+#home_page .title{
+    text-align: center;
+    width: 250px;
+    font-weight: 500;
+    line-height: 70px;
+    font-style: bold;
+    margin-left: -30%;
+    margin-top: 17%;     
+}
+
+#home_page .sobremim p{
+    width: 650px;
+    text-align: justify;
+    font-weight: 400;
+    margin-top: -15%;
+    font-size: 20px;
+}
+
+/*Principais Trabalho*/
+
+#pt{
+    background: #343a40;
+    height: 5px;
+    width: 220px;
+    margin-top: 50px;   
+}
+
+#pt .title{
+    text-align: center;
+    width: 250px;
+    font-weight: 500;
+    line-height: 80px;
+    font-style: bold;
+    margin-left: -8%;
+    margin-top: -3%;  
+}
+
+#pt p{
+    width: 650px;
+    font-weight: 400;
+    margin-top: 5px;
+    margin-top: -13%;
+    text-align: justify;
+    font-size: 20px;  
+}
+
+/*Pt - Corona*/
+
+.corona{
+    margin-top: 25%;
+}
+
+.corona .button{
+    color:white;
+    background: #343a40;
+    width: 180px;   
+    height: 30px;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 8px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 8px 16px #8b80893f;
+    cursor: pointer;
+    margin-top: 2%;
+}
+
+.corona .button:hover {
+    background-color: #d4d4d4;
+    color:#000000;
+    transition: 300ms;
+}
+
+/*Pt - Casa_criativa*/
+
+.casa_criativa{
+    margin-top: 25%;
+}
+
+.casa_criativa .button{
+    color:white;
+    background: #343a40;
+    width: 190px;   
+    height: 30px;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 8px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 8px 16px #8b80893f;
+    cursor: pointer;
+    margin-top: 2%;
+}
+
+.casa_criativa .button:hover {
+    background-color: #d4d4d4;
+    color:#000000;
+    transition: 300ms;
+}
+
+.casa_criativa .fa-github{
+   
+   font-size: 13px;
+   width: 18px;  
+}
+
+/*Pt - be the hero*/
+
+.be_the_hero{
+    margin-top: 25%;
+}
+
+.be_the_hero .button{
+    color:white;
+    background: #343a40;
+    width: 190px;   
+    height: 30px;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 8px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 8px 16px #8b80893f;
+    cursor: pointer;
+    margin-top: 2%;
+}
+
+.be_the_hero .button:hover {
+    background-color: #d4d4d4;
+    color:#000000;
+    transition: 300ms;
+}
+
+.be_the_hero .fa-github{
+   
+   font-size: 13px;
+   width: 18px;  
+}
+
+/*Project Atual*/
+
+.atualmente{
+    margin-top: 25%;
+}
+
+/*experience*/
+
+#experience{
+    background: #343a40;
+    height: 5px;
+    width: 375px;
+    margin-top: 800%;  
+}
+
+#experience .title{
+    text-align: center;
+    width: 450px;
+    font-weight: 500;
+    line-height: 80px;
+    font-style: bold;
+    margin-left: -10%;
+    margin-top: 20%;  
+    margin-bottom: 10%;
+}
+
+#experience p{
+    width: 650px;
+    font-weight: 400;
+    text-align: justify;
+    margin-top: -10%;
+    font-size: 20px;  
+}
+
+#recurso {
+    background: #343a40;
+    height: 4px;
+    width: 85%;
+    margin-top: 380%; 
+}
+
+#recurso .title{
+    margin-left: -46%;
+}
+
+#recurso p{
+    width: 650px;
+    font-weight: 400;
+    margin-top: 5px;
+    text-align: justify;
+    margin-top: -13%;
+    font-size: 20px;  
+    margin-left: -2%;
+}
+
+/*end-page*/
+
+#end_page .end {
+    background-color:#343a40;
+    margin-top: 4%;
+    height: 110px; 
+    color: #ffffff;
+}
+
+#end_page .end p{    
+    font-size:14px;
+    font-weight: 500;
+    text-align: center;
+    letter-spacing: 0.2px;
+    opacity: 0.4;
+}
+
+
+

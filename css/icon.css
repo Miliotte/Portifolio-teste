@@ -1,0 +1,160 @@
+#end_page .footer1, .footer2 {
+    text-align: center;  
+    display:flex; 
+    align-items: center;
+    justify-content: center;  
+}
+
+.footer1 {
+    margin-top:89%;    
+}
+
+.fa-html5{
+    font-size: 40px;
+    color: #343a40;
+    margin-left: 15px;
+    margin-top:34%;  
+}
+
+.fa-html5:hover{
+    color: #ef652a;
+    transition: 200ms;
+}
+
+.fa-css3-alt{
+    font-size: 40px;
+    color: #343a40;
+    margin-left: 15px;
+    margin-top:34%;  
+}
+
+.fa-css3-alt:hover{
+    color: #157ab9;
+    transition: 200ms;
+}
+
+.fa-java{
+    font-size: 40px;
+    color: #343a40;
+    margin-left: 15px;
+    margin-top:34%;  
+}
+
+.fa-java:hover{
+    color: #d70606;
+    transition: 200ms;
+}
+
+.fa-js-square{
+    font-size: 40px;
+    color: #343a40;
+    margin-left: 15px;
+    margin-top:34%;  
+}
+
+.fa-js-square:hover{
+    color: #f8db00;
+    transition: 200ms;
+}
+
+.footer1 .fa-github{
+    font-size: 40px;
+    color: #343a40;
+    margin-left: 15px;
+    margin-top:34%;  
+}
+
+.footer1 .fa-github:hover{
+    color: #000000;
+    transition: 200ms;
+}
+
+.fa-node-js{
+    font-size: 40px;
+    color: #343a40;
+    margin-left: 15px;
+    margin-top:34%;  
+}
+
+.fa-node-js:hover{
+    color: #88c349;
+    transition: 200ms;
+}
+
+.fa-npm{
+    font-size: 40px;
+    color: #343a40;
+    margin-left: 15px;
+    margin-top:40px;   
+}
+
+.fa-npm:hover{
+    color: #c53635;
+    transition: 200ms;
+}
+
+.fa-react{
+    font-size: 40px;
+    color: #343a40;
+    margin-left: 15px;
+    margin-top:40px;   
+}
+
+.fa-react:hover{
+    color: #5ed4f4;
+    transition: 400ms;
+}
+
+.fa-database{
+    font-size: 40px;
+    color: #343a40;
+    margin-left: 15px;
+    margin-top:40px;   
+}
+
+.fa-database:hover{
+    color: #abadac;
+    transition: 400ms;
+}
+
+/*Iconé Cabeçalho*/
+
+.fa-linkedin{
+    color: #ffffff;
+    margin-left: 21%;   
+}
+
+.fa-linkedin:hover{
+    color:#0077b5;
+    transition: 200ms;
+    opacity: 0.7;
+}
+
+.fa-envelope{
+    color:#ffffff;
+    margin-left: 20px;  
+}
+
+.fa-envelope:hover{
+    color:#e93e30;
+    transition: 200ms; 
+    opacity: 0.7;
+}
+
+#container .fa-github{
+    color:#ffffff;
+    margin-left: 20px;  
+}
+
+#container .fa-github:hover{
+    color: #000000;;
+    transition: 200ms;  
+    opacity: 0.7;
+}
+
+
+
+
+
+
+
