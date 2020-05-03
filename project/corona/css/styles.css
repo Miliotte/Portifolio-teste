@@ -1,0 +1,256 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background: #ffffff;
+    margin: 30px;
+}
+
+h1{
+    color: #662c91;
+    font-weight: bolder;
+    font-size: 50px;
+    margin: auto;
+}
+
+p{
+    color: #662c91;
+    font-size: 25px;
+
+    
+}
+
+.corona h1 {
+    font-size: 90px;
+    border-radius: 50px;
+    width: 550px;
+    background-color: #662c91;
+    color: #ffffff;
+    text-align: center;
+    color: #ffffff;
+    margin-left: 30%;
+    box-shadow: 0px 8px 16px #662c9132;
+    margin-top: 5px;
+    
+}
+
+.corona h1:hover{
+    background-color: #613881 ;
+    color: #ffffff;
+    text-decoration: none;
+    transition: 500ms;
+}
+
+.previna h1 {
+    font-size: 42px;
+    text-align: center;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.atualizado p {
+    text-align: center;
+    color: #662c91
+    
+}
+
+.conceito p {
+    width: 750px;
+}
+
+.img1 img{
+    float: right;
+    width: 250px; 
+    height: 250px;
+    margin-right: 40spx;
+ }
+
+.trans h1  {
+    text-align: right;
+}
+
+.transm p {
+    margin-left: 30%;
+}
+
+.img2 img {
+    float: left;
+    width: 200px; 
+    height: 200px;
+}
+
+.sint p {
+    margin-right: 30%;
+}
+
+.img3 img {
+    float: right;
+    width: 200px;
+    height: 200px;
+}
+
+.prot h1 {
+    text-align: center;
+    
+}
+
+.prote h2 {
+    color: #662c91;
+    
+}
+
+.prox h1  {
+    margin-left: 30%;
+}
+
+.proxi p {
+    margin-left: 30%;
+}
+
+.img4 img {
+    float: left;
+    width: 300px;
+    height: 300px;
+    margin-top: 70px;
+}
+
+.img5 img {
+    float: right;
+    margin-top: -100px;
+    width: 200px;
+    height: 200px;
+    margin-right: 100px;
+}
+
+.anim p {
+    margin-left: 300px;
+    float: right;
+    margin-top: -200px;
+}
+
+.img6 img {
+    margin-top: 50px;
+    width: 250px;
+    height: 250px;
+}
+
+.fund1 {
+    background-color:#b6ffe4 ;
+    height:300px;
+    margin:-30px;
+    margin-top: 5px;
+}
+
+.pert h1{
+    margin: 30px;
+}
+
+.perto p {
+    margin: 30px;
+    margin-top:-30px;
+}
+
+.pac {
+    margin-left: 500px;
+}
+
+.img7 img {
+    float:left;
+    height: 300px;
+    width: 300px;
+    margin-left: -400px;
+    margin-top: 125px;
+}
+
+.fund2 {
+    background-color:#fee0ae;
+    height:300px;
+    margin:-30px;
+    margin-top: 5px;
+}
+
+.pes {
+    margin: 30px;
+}
+
+.iso {
+    margin-right: 500px;
+}
+
+.img8 img {
+    float: right;
+    width: 350px;
+    height: 350px;
+    margin-right: -450px;
+}
+
+.fund3 {
+    background-color: #fdd6ff;
+    margin:-30px;
+    margin-top: 5px;
+}
+
+.cas {
+    margin: 30px;
+}
+
+.img9 img {
+    float: left;
+    width: 350px;
+    height: 350px;
+    margin-left: -450px;
+    margin-top: 200px;
+}
+
+.hig {
+    margin-left: 500px;
+}
+
+.fund4 {
+    background-color:#b6ffe4 ;
+    margin: -30px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.ori {
+    margin: 30px;
+}
+
+.vac {
+    margin-right: 500px;
+}
+
+.img10 img {
+    float: right;
+    width: 300px;
+    height: 300px;
+    margin-right: -450px;
+    margin-top: 100px ; 
+}
+
+.blue {
+    background-color: #b6ffe4;
+}
+
+.yellow {
+    background-color: #fff799;
+}
+
+.green {
+    background-color: #C9FEB1;
+}
+
+.purple {
+    background-color: #fdd6ff;
+}
+
+.rose {
+    background-color: #fff4d6;
+}
+
+.blue2 {
+    background-color: #d6dfff;
+}
+
+.orange {
+    background-color: #fee0ae;
+}
