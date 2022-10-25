@@ -14,13 +14,13 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - [html](https://www.javascript.com/)
 
 
-//## 🗂 Como baixar e iniciar o projeto
+## 🗂 Como baixar e iniciar o projeto
 
-//```bash
+```bash
 
     # Clonar o repositório
     $ git clone https://github.com/miliotte/ecoleta
 
-//```
+```
 
 Desenvolvido por: [Ricardo Miliotte](https://www.linkedin.com/in/ricardo-miliotte-cruz-a430a0166/)
